@@ -1,0 +1,13 @@
+# OS X
+.DS_Store
+
+# node
+node_modules
+
+# generated files
+.tmp/
+logs
+dist
+
+# IDEs and editors
+.vscode
